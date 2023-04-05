@@ -1,0 +1,27 @@
+body{
+    background-color: #EAF6F6;
+    
+    
+    
+    
+}
+
+h2{
+    margin: 50x auto 0 auto;
+    font-family: 'Sacramento', cursive ;
+    font-size: 2rem;
+}
+
+.top{
+    position: relative;
+    margin-left: 40%;
+    
+}
+
+form{
+    position: absolute;
+    left:35% ;
+
+
+}
+
