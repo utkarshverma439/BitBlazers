@@ -1,0 +1,28 @@
+body {
+    margin-top: 0;
+    color: #EAF6F6;
+    text-align: center;
+    
+}
+
+.top-container{
+    background-color: #93dddd;
+    height: 100px;
+    padding-top: 50px;
+}
+h1{
+    color: #66BFBF;
+    font-family: 'Sacramento', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    
+}
+
+
+
+.bottom-container {
+    background-color: #66BFBF;
+    height: 100px;
+    padding-top: 50px;
+    color: #EAF6F6;
+}
