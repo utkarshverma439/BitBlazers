@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    color: #40514E;
+    text-align: center;
+    background-color: #EAF6F6;
+}
+h1 {
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Sacramento', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+img{
+    border-radius: 30%;
+}
+.top-cloud {
+    position: absolute;
+    right: 50px;
+    top: 100px;
+    width: 200px
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 50px;
+    top: 100px;
+    width:200px ;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    height: 100px;
+    padding-top: 50px;
+    color: #EAF6F6;
+}
